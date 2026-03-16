@@ -12,7 +12,11 @@
 - NumPy
 - Tableau
 - C++
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=govind-sing&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govind-sing&layout=compact)
 ## 🛠 Projects
 
 ### SplitMint – Smart Expense Manager
@@ -32,7 +36,7 @@ Tech: React.js, Node.js, PostgreSQL
 - **Debatify**
 - **Farm Bridge**
 - **Fenmo**
-- **SplitMint**
+- **Renaissance AI Generator**
 
 More projects available in my repositories.
 
