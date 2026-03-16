@@ -41,9 +41,7 @@ Full-stack application to manage group expenses and optimize settlements.
 - Designed normalized relational database schema
 - Developed full CRUD functionality and REST APIs
 
-<a href="https://splitmint-opal.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Demo-green?logo=vercel" />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://splitmint-opal.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/govind-sing/splitmint)
 
 ---
