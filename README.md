@@ -9,16 +9,28 @@ I enjoy building scalable applications, experimenting with new technologies, and
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=postgresql&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions)
 
 ---
 
