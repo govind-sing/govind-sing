@@ -42,4 +42,4 @@ More projects available in my repositories.
 - Machine Learning
 
 ## 🔗 Connect With Me
-LinkedIn: https://www.linkedin.com/in/govindsi-v/
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/govind-sing)
