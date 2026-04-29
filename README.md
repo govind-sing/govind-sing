@@ -89,7 +89,6 @@ Optimized cold-start latency via persistent model loading with CORS handling for
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=govind-sing&show_icons=true&theme=default&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-sing&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
