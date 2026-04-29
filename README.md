@@ -84,15 +84,7 @@ Optimized cold-start latency via persistent model loading with CORS handling for
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/govind-sing)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-sing&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
 
 
 
