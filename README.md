@@ -1,11 +1,11 @@
-# Hi, I'm Govind 👋
+# Hi, I'm Govind 
 
-💻 Passionate about building software, backend systems, and data-driven applications.  
+ Passionate about building software, backend systems, and data-driven applications.  
 I enjoy building scalable applications, experimenting with new technologies, and solving real-world problems through code.
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -38,7 +38,7 @@ I enjoy building scalable applications, experimenting with new technologies, and
 
 ---
 
-# 🛠 Projects
+#  Projects
 
 ## SplitMint – Smart Expense Manager
 
