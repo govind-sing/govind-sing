@@ -1,101 +1,103 @@
-# Hi, I'm Govind 
+# Hey, I'm Govind 
 
- Passionate about building software, backend systems, and data-driven applications.  
-I enjoy building scalable applications, experimenting with new technologies, and solving real-world problems through code.
+I build full-stack web apps — from normalized database schemas to deployed frontends.  
+Currently exploring modern stacks like **Next.js + Supabase** and serverless architectures on **AWS Lambda**.  
+I like solving real problems with clean code, and I'm always shipping something.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+**Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=postgresql&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-
+**Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+**Databases & BaaS**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
+**Cloud & Deployment**  
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?logo=amazonaws&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless)
-
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+
+---
+
+## Projects
+
+### [SplitMint](https://splitmint-opal.vercel.app/) — Debt Settlement Engine
+> Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Vercel
+
+A full-stack group expense and debt settlement app built with the **Next.js 15 App Router**.  
+No REST API — server actions and server components handle all data flow securely on the server.
+
+-  **Greedy Algorithm** to minimize debt settlement transactions across participants
+-  **Supabase Auth** with server-side session management via Next.js middleware — no exposed tokens
+-   Normalized **PostgreSQL schema** with cascading deletes enforced at the database level
+-  Equal, Percentage, and Custom split modes with precise rounding correction
+-   Deployed on **Vercel** with automatic CI/CD on every push
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?logo=vercel&logoColor=white)](https://splitmint-next.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/govind-sing/splitmint-Next)
+
+---
+
+### [Debatify](https://ddebatify.vercel.app/) — Debate & Discussion Platform
+> React.js · Node.js · Express.js · MongoDB · JWT · AWS Lambda
+
+A full-stack content platform for structured debates, discussions, and blog-style posts.
+
+-  **JWT authentication** with email verification and role-based access control
+-  Social graph features — follows, likes, bookmarks, and notifications
+-  **Cloudinary** integration for media storage and optimized image delivery
+-  Serverless backend deployed on **AWS Lambda**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-000000?logo=vercel&logoColor=white)](https://ddebatify.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/govind-sing/debatify)
+
+---
+
+### Renaissance Art Generator
+> Python · FastAPI · Stable Diffusion
+
+Python backend serving GPU-based AI image generation through clean REST API endpoints.  
+Optimized cold-start latency via persistent model loading with CORS handling for frontend integration.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)](https://github.com/govind-sing)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=govind-sing&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-sing&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
 
 
----
+## 🔗 Connect
 
-#  Projects
-
-## SplitMint – Smart Expense Manager
-
-Full-stack application to manage group expenses and optimize settlements.
-
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql)
-
-- Implemented Greedy Algorithm to optimize debt settlements
-- Built Equal, Percentage, and Custom split logic
-- Designed normalized relational database schema
-- Developed full CRUD functionality and REST APIs
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://splitmint-opal.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/govind-sing/splitmint)
-
----
-
-## Debatify – Debate & Discussion Platform
-
-Full-stack platform for structured debates, discussions, and blog-style content sharing.
-
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-API-black?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb)
-
-- Architected modular backend services for debates, discussions, and blogs
-- Implemented JWT authentication and role-based access control
-- Built social features including follows, likes, bookmarks, and notifications
-- Integrated Cloudinary for media storage and optimized image handling
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/govind-sing/debatify)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ddebatify.vercel.app/)
-
----
-
-## Other Projects
-
-- **Farm Bridge**
-- **Fenmo**
-- **Renaissance AI Generator**
-
-More projects available in my repositories.
-
----
-
-# 📈 Interests
-
-- Software Development  
-- Backend Systems  
-- Data Analysis  
-- Machine Learning  
-
----
-
-# 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govindsi-v/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind_Singh_Tanwar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govindsi-v/)
+[![Email](https://img.shields.io/badge/Email-govindsingh7126@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:govindsingh7126@gmail.com)
