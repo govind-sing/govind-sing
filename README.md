@@ -44,7 +44,7 @@ I like solving real problems with clean code, and I'm always shipping something.
 
 ## Projects
 
-### [SplitMint](https://splitmint-opal.vercel.app/) — Debt Settlement Engine
+### [SplitMint](https://splitmint-next.vercel.app/) — Debt Settlement Engine
 > Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Vercel
 
 A full-stack group expense and debt settlement app built with the **Next.js 15 App Router**.  
